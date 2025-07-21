@@ -10,8 +10,8 @@ If the server becomes unresponsive, the script automatically cancels all open or
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/yourusername/okx-auto-cancel.git
-   cd okx-auto-cancel
+   git clone https://github.com/marsky0/okx-watcher.git
+   cd okx-watcher
 ````
 
 2. Install the dependencies:
